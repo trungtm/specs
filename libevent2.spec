@@ -52,4 +52,4 @@ rm -rf %{buildroot}
 
 %changelog
 * Thu Jul 11 2013 - TrungTM
-- bump to 2.0.21
+- Initial release
