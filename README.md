@@ -1,4 +1,4 @@
 specs
 =====
 
-rpm specs
+RPM specs for RHEL/CentOS
